@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="none"/>
+<g transform="matrix(8.0328 0 0 8.0328 494.243 498.9711)" id="691562">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(188,168,149); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-61.44, -61.44)" d="M 61.44 0 c 33.93 0 61.44 27.51 61.44 61.44 s -27.51 61.44 -61.44 61.44 S 0 95.37 0 61.44 S 27.51 0 61.44 0 L 61.44 0 z" stroke-linecap="round"/>
+</g>
+<g transform="matrix(11.0101 0 0 9.1705 494.2437 484.3229)" id="463622">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(1 0 0 1 0 0)">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(154,118,88); fill-rule: nonzero; opacity: 1;" transform=" translate(-32, -32)" d="M 58 5 H 6 a 6 6 0 0 0 -6 6 V 53 a 6 6 0 0 0 6 6 H 58 a 6 6 0 0 0 6 -6 V 11 A 6 6 0 0 0 58 5 Z m -4 6 h 4 v 4 H 54 Z m -6 0 h 4 v 4 H 48 Z m -6 0 h 4 v 4 H 42 Z M 60 53 a 2 2 0 0 1 -2 2 H 6 a 2 2 0 0 1 -2 -2 V 21 H 60 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1 0 0 1 0.0001 6.08)">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(154,118,88); fill-rule: nonzero; opacity: 1;" transform=" translate(-32.0001, -38.08)" d="M 22.74 25.47 l -11.2 11.2 A 2 2 0 0 0 11 38.08 a 2 2 0 0 0 0.58 1.42 l 11.2 11.19 l 2.83 -2.82 l -9.79 -9.79 l 9.79 -9.78 z M 41.26 25.47 L 38.43 28.3 l 9.79 9.78 l -9.79 9.79 l 2.83 2.82 L 52.46 39.5 A 2 2 0 0 0 53 38.08 a 2 2 0 0 0 -0.58 -1.41 z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(0.1961 -0.9806 0.9806 0.1961 -0.002 6.5016)">
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(154,118,88); fill-rule: nonzero; opacity: 1;" x="-12.75" y="-2" rx="0" ry="0" width="25.5" height="4"/>
+</g>
+</g>
+</g>
+</svg>
